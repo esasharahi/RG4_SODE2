@@ -21,7 +21,7 @@ double f_1(double t, double y_1, double y_2){
 	return y_2;
 	}
 
-	double f_2(double t, double y_1, double y_2){
+double f_2(double t, double y_1, double y_2){
 	return 0 ;
 	}
 
